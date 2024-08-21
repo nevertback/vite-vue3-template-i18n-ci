@@ -1,0 +1,18 @@
+{
+  "你好": {
+    "en": "你好",
+    "$files": ["views\\HomeView.vue"]
+  },
+  "世界": {
+    "en": "世界",
+    "$files": ["views\\HomeView.vue"]
+  },
+  "测试": {
+    "en": "测试",
+    "$files": ["views\\HomeView.vue"]
+  },
+  "this": {
+    "en": "this",
+    "$files": ["views\\HomeView.vue"]
+  }
+}
