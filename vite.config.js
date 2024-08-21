@@ -12,6 +12,7 @@ import Voerkai18nPlugin from '@voerkai18n/vite'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: '/vite-vue3-template-i18n-ci/',
   plugins: [
     vue(),
     vueJsx(),
